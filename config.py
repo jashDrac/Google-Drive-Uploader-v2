@@ -1,11 +1,12 @@
 import os
 
 DOWNLOAD_LOCATION = "./Downloads"
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "asddsadsd")
+BOT_TOKEN = "5565414644:AAHAQSBClWyp1OGIR7tRswyhxdBXqMHpv4o"
+
 # BOT_TOKEN = "894269743:AAH3OAtoNulAMPwJg-Cp4zAGBxGazTlzn38"  #  @aryan_vbot
-APP_ID = int(os.environ.get("API_ID", "sdasdsd"))
-API_HASH = os.environ.get("API_HASH", "dsfdfsf")
-AUTH_GROUP = ""
+APP_ID = "14079819"
+API_HASH = "33aaec33dd7d2e26a50e548a1421dbd1"
+AUTH_GROUP = "https://t.me/taktgp"
 
 Creds_path = "creds"
 DOWNLOAD_LOCATION = "/"
